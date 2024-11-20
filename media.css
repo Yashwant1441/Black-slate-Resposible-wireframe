@@ -43,6 +43,9 @@
     .md-1{
         width: 100%;
     }
+    .d-none{
+        display: none;
+    }
 }
 
 
